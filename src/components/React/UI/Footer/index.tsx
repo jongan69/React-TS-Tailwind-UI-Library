@@ -193,7 +193,7 @@ export const Footer = ({ text }: String | any) => {
 
         <div className="grid lg:grid-cols-4 md:grid-cols-2">
           <div className="mb-6">
-            <h5 className="uppercase font-bold mb-2.5">Pages</h5>
+            <h5 className="uppercase font-bold mb-2.5">Sections</h5>
 
             <ul className="list-none mb-0">
               <li>
@@ -202,8 +202,8 @@ export const Footer = ({ text }: String | any) => {
                 </a>
               </li>
               <li>
-                <a href="#blog" className="text-white">
-                  Blog
+                <a href="#testimonials" className="text-white">
+                  Testimonials
                 </a>
               </li>
               <li>
